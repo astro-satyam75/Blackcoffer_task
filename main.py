@@ -79,3 +79,4 @@ for files in range(len(df['URL_ID'])):
     percentage_complex_words.append(percentage_complex)
     avg_sentence_length.append(avg_sent_length)
     syllables_per_word.append(syllable_per_word)
+
