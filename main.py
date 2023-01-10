@@ -133,6 +133,7 @@ for files in ids:
     personal_pronouns.append(len(pronouns))
     avg_word_length.append(count / len(words))
     word_count.append(len(final_words))
+    syllables_per_word.append(syllable_per_word)
     positive_score.append(positive_points)
     negative_score.append(negative_points)
     try:
